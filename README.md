@@ -8,5 +8,5 @@ This is a library that use strings for calculate numbers.
 Don't have overflow and you can use with very large number.
 
 ##Working
-*Sum
-*Subtration
+* Sum
+* Subtration
